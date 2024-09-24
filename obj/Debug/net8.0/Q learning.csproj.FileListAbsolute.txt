@@ -1,0 +1,28 @@
+C:\Users\MSI\source\repos\Q learning\Q learning\obj\Debug\net8.0\Q learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\Q learning\Q learning\obj\Debug\net8.0\Q learning.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\Q learning\Q learning\obj\Debug\net8.0\Q learning.AssemblyInfo.cs
+C:\Users\MSI\source\repos\Q learning\Q learning\obj\Debug\net8.0\Q learning.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Q learning\Q learning\bin\Debug\net8.0\Q learning.exe
+C:\Users\MSI\source\repos\Q learning\Q learning\bin\Debug\net8.0\Q learning.deps.json
+C:\Users\MSI\source\repos\Q learning\Q learning\bin\Debug\net8.0\Q learning.runtimeconfig.json
+C:\Users\MSI\source\repos\Q learning\Q learning\bin\Debug\net8.0\Q learning.dll
+C:\Users\MSI\source\repos\Q learning\Q learning\bin\Debug\net8.0\Q learning.pdb
+C:\Users\MSI\source\repos\Q learning\Q learning\obj\Debug\net8.0\Q learning.dll
+C:\Users\MSI\source\repos\Q learning\Q learning\obj\Debug\net8.0\refint\Q learning.dll
+C:\Users\MSI\source\repos\Q learning\Q learning\obj\Debug\net8.0\Q learning.pdb
+C:\Users\MSI\source\repos\Q learning\Q learning\obj\Debug\net8.0\Q learning.genruntimeconfig.cache
+C:\Users\MSI\source\repos\Q learning\Q learning\obj\Debug\net8.0\ref\Q learning.dll
+C:\Users\MSI\Documents\Visual Studio Project\Q learning\Q learning\obj\Debug\net8.0\Q learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Documents\Visual Studio Project\Q learning\Q learning\obj\Debug\net8.0\Q learning.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\Visual Studio Project\Q learning\Q learning\obj\Debug\net8.0\Q learning.AssemblyInfo.cs
+C:\Users\MSI\Documents\Visual Studio Project\Q learning\Q learning\obj\Debug\net8.0\Q learning.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Visual Studio Project\Q learning\Q learning\obj\Debug\net8.0\Q learning.dll
+C:\Users\MSI\Documents\Visual Studio Project\Q learning\Q learning\obj\Debug\net8.0\refint\Q learning.dll
+C:\Users\MSI\Documents\Visual Studio Project\Q learning\Q learning\obj\Debug\net8.0\Q learning.pdb
+C:\Users\MSI\Documents\Visual Studio Project\Q learning\Q learning\bin\Debug\net8.0\Q learning.exe
+C:\Users\MSI\Documents\Visual Studio Project\Q learning\Q learning\bin\Debug\net8.0\Q learning.deps.json
+C:\Users\MSI\Documents\Visual Studio Project\Q learning\Q learning\bin\Debug\net8.0\Q learning.runtimeconfig.json
+C:\Users\MSI\Documents\Visual Studio Project\Q learning\Q learning\bin\Debug\net8.0\Q learning.dll
+C:\Users\MSI\Documents\Visual Studio Project\Q learning\Q learning\bin\Debug\net8.0\Q learning.pdb
+C:\Users\MSI\Documents\Visual Studio Project\Q learning\Q learning\obj\Debug\net8.0\Q learning.genruntimeconfig.cache
+C:\Users\MSI\Documents\Visual Studio Project\Q learning\Q learning\obj\Debug\net8.0\ref\Q learning.dll

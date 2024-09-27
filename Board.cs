@@ -7,7 +7,7 @@
         AddStartAndFinishLocation();
         AddDangerLocation();
         PrintBoard();
-        Console.WriteLine("\n->Tahta Oluşturuldu!!!!!\n");
+        Console.WriteLine("\n->Board Created!!!!!\n");
     }
     public void BoardCreate(char c = '0')
     {

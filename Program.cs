@@ -98,7 +98,7 @@ class Program
         string newState = "state" + x.ToString() + y.ToString();
 
         // Eğer ajan bir çukura düştüyse veya hedefe ulaştıysa, oyunu baştan başlat
-        if (newState == "state04" || newState == "state23" || newState == "state21" || newState == "state22" || newState == "state40" || newState == "state41" || newState == "state42" || newState == "state43" || newState == "state34")
+        if (newState == "state04" || newState == "state23" || newState == "state21" || newState == "state22" || newState == "state40")
         {
             newState = "state00";  // Başlangıç durumuna dön
         }
